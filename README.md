@@ -154,15 +154,13 @@ This solver is intended for:
 - Computational requirements may be extreme
 - Consider opportunity costs of extended searches
 
-## 🤝 Contributing
+## 💝 Support
 
-Contributions welcome! Areas for improvement:
+### Donations Welcome
+If this solver has been helpful for your research, education, or puzzle-solving endeavors, consider supporting the project:
 
-- **Algorithm Optimization**: Enhanced sampling strategies
-- **Performance**: Better multiprocessing utilization
-- **Memory Efficiency**: Reduced memory footprint for key tracking
-- **Analytics**: Additional statistical metrics
-- **Hardware Support**: GPU acceleration integration
+**Bitcoin Address**: `bc1qct9mx2qhj0alzuem0fflhx53arte3q5m0mn5hu`
+
 
 ## 📝 License
 
@@ -173,13 +171,5 @@ This project is released under the MIT License. See `LICENSE` file for details.
 - [Bitcoin Puzzle Challenge](https://privatekeys.pw/puzzles/bitcoin-puzzle-tx)
 - [Bitcoin.org - Technical Overview](https://bitcoin.org/en/developer-guide)
 - [ECDSA and Bitcoin](https://en.bitcoin.it/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
-
-## 💝 Support
-
-### Donations Welcome
-If this solver has been helpful for your research, education, or puzzle-solving endeavors, consider supporting the project:
-
-**Bitcoin Address**: `bc1qct9mx2qhj0alzuem0fflhx53arte3q5m0mn5hu`
-
-
+- 
 **⚡ Remember**: The Bitcoin puzzle challenges are extremely difficult by design. This solver represents a sophisticated approach but cannot guarantee success within any reasonable timeframe for higher-numbered puzzles.

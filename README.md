@@ -19,7 +19,7 @@ This solver is designed for the [Bitcoin Puzzle Challenge](https://privatekeys.p
 
 ## 🧮 Current Configuration
 
-- **Target Puzzle**: #71 (71-bit private key)
+- **Target Puzzle**: #71
 - **Target Address**: `1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU`
 - **Search Range**: `2^70` to `2^71 - 1`
 

@@ -163,15 +163,10 @@ This solver is intended for:
 - Success is not guaranteed for any puzzle
 - Computational requirements may be extreme
 - Consider opportunity costs of extended searches
-  
-## 📝 License
-
-This project is released under the MIT License. See `LICENSE` file for details.
 
 ## 🔗 References
 
 - [Bitcoin Puzzle Challenge](https://privatekeys.pw/puzzles/bitcoin-puzzle-tx)
 - [Bitcoin.org - Technical Overview](https://bitcoin.org/en/developer-guide)
 - [ECDSA and Bitcoin](https://en.bitcoin.it/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
-  
-**⚡ Remember**: The Bitcoin puzzle challenges are extremely difficult by design. This solver represents a sophisticated approach but cannot guarantee success within any reasonable timeframe for higher-numbered puzzles.
+

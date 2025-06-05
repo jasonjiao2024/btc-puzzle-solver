@@ -138,7 +138,11 @@ When the correct private key is found:
 If this solver has been helpful for your research, education, or puzzle-solving endeavors, consider supporting the project:
 
 **Bitcoin Address**: `bc1qct9mx2qhj0alzuem0fflhx53arte3q5m0mn5hu`
-
+<div align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=bc1qct9mx2qhj0alzuem0fflhx53arte3q5m0mn5hu" alt="Bitcoin Address QR Code" width="200"/>
+  <br>
+  <small><i>Scan to donate Bitcoin</i></small>
+</div>
 
 ## ⚠️ Important Disclaimers
 

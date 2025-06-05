@@ -134,6 +134,12 @@ When the correct private key is found:
 - Result file creation with full details
 - Checkpoint cleanup
 
+## 💝 Support
+If this solver has been helpful for your research, education, or puzzle-solving endeavors, consider supporting the project:
+
+**Bitcoin Address**: `bc1qct9mx2qhj0alzuem0fflhx53arte3q5m0mn5hu`
+
+
 ## ⚠️ Important Disclaimers
 
 ### Educational Purpose
@@ -153,15 +159,7 @@ This solver is intended for:
 - Success is not guaranteed for any puzzle
 - Computational requirements may be extreme
 - Consider opportunity costs of extended searches
-
-## 💝 Support
-
-### Donations Welcome
-If this solver has been helpful for your research, education, or puzzle-solving endeavors, consider supporting the project:
-
-**Bitcoin Address**: `bc1qct9mx2qhj0alzuem0fflhx53arte3q5m0mn5hu`
-
-
+  
 ## 📝 License
 
 This project is released under the MIT License. See `LICENSE` file for details.
